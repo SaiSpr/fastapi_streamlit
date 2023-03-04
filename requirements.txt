@@ -4,3 +4,6 @@ pandas
 matplotlib
 plotly
 plotly-express
+xgboost
+make_pred
+scikit-learn
